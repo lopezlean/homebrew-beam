@@ -1,8 +1,8 @@
 class Beam < Formula
   desc "Ephemeral terminal-first file sharing"
   homepage "https://github.com/lopezlean/beam"
-  url "https://github.com/lopezlean/beam/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "6a3fa6c9297e5ed54b7e958eea23fdaeab61157feac6c685f415bb07dbe05550"
+  url "https://github.com/lopezlean/beam/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "09410677d90145896cdfac68f146e345e0f5b78edb242deda8c903d5665d2748"
   license "MIT"
 
   depends_on "rust" => :build
